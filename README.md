@@ -29,6 +29,6 @@
 <h3>Referências</h3><p>
 
 - Conteúdo da <a href="https://www.youtube.com/@cfbcursos">CFBCursos</a> disponibilizado no link: <a href="https://www.youtube.com/playlist?list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi">Curso de Programação C#</a>;<br>
-- </p>
+- Conteúdo da <a href="https://www.alura.com.br">Alura</a> disponibilizado no link: <a href="https://cursos.alura.com.br/course/csharp-iniciando-linguagem">Curso de C#: explorando a linguagem</a>;</p>
 </div>
 
