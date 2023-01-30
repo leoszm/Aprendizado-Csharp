@@ -14,6 +14,21 @@
 <div>
 
 </div>
-<p>Hi, <br>In this repository, i'm Learning C# Language with visual studio code.</p>
-<p>The content is in Youtube channel <link>https://www.youtube.com/playlist?list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi</link></br></p>
-<p>Enjoy!</p>
+<div>
+<h3>Licensas</h3>
+
+- <strong>Este conteúdo</strong>, dentro dos meus repositórios, é open source, fique a vontade caso queira utiliza-lo de entretenimento ou base de estudo.
+</div>
+<br>
+<div>
+<p>Atenciosamente,</p>
+<p><i><strong>Leonardo Souza Martins</strong>, Web Developer - SP - BR</i></p>
+</div>
+<hr />
+<div>
+<h3>Referências</h3><p>
+
+- Conteúdo da <a href="https://www.youtube.com/@cfbcursos">CFBCursos</a> disponibilizado no link: <a href="https://www.youtube.com/playlist?list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi">Curso de Programação C#</a>;<br>
+- </p>
+</div>
+
