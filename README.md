@@ -8,8 +8,15 @@
 <div>
 <h3>Conteúdo</h3>
   
-- O conteúdo de C# do canal CFB Cursos é disponibilizado gratuitamento no youtube. 
-- Entretanto, o curso de C# disponibilizado pela alura é pago.
+- O conteúdo de C# do canal CFB Cursos é disponibilizado gratuitamento no youtube, com o cartão de visita: <br> 
+  - Curso de programação completo em C#, venha aprender criar programas para Windows em uma das linguagens mais usadas comercialmente. Se você que ser um programador de verdade e que tenha colocação no mercado de trabalho você precisa aprender C#;<br>
+  <br>
+- Entretanto, o curso de C# disponibilizado pela alura é pago, com o cartão de visita:<br>
+  - Compile e execute código C#;<br>
+  - Aprenda a usar o Visual Studio;<br>
+  - Conheça Variáveis e controle de fluxo;<br>
+  - Entenda sobre as condicionais e laços de repetição;<br>
+  - Conheça os principais tipos do C#;<br>
 </div>
 <div>
 
