@@ -31,6 +31,7 @@ class Program
         /*
          * Erro devido a int não aceitar double, mas double aceita int
          int salarioInteiro = salario;
+        
         */
 
         //Saída
