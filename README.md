@@ -8,7 +8,7 @@
 <div>
 <h3>Conteúdo</h3>
   
-- O conteúdo de C# do canal CFB Cursos é disponibilizado gratuitamento no youtube, com o cartão de visita: <br> 
+- O conteúdo de C# do canal CFB Cursos é disponibilizado gratuitamente no youtube, com o cartão de visita: <br> 
   - Curso de programação completo em C#, venha aprender criar programas para Windows em uma das linguagens mais usadas comercialmente. Se você que ser um programador de verdade e que tenha colocação no mercado de trabalho você precisa aprender C#;<br>
   <br>
 - Entretanto, os cursos de C# disponibilizados pela alura e Udemy são pago, tendo como cartão de visita:<br><h4>Alura:</h4>
@@ -30,12 +30,12 @@
 <div>
 <h3>Licensas</h3>
 
-- <strong>Este conteúdo</strong>, dentro dos meus repositórios, é open source, fique a vontade caso queira utiliza-lo de entretenimento ou base de estudo.
+- <strong>Este conteúdo</strong>, dentro dos meus repositórios, é open source, fique a vontade caso queira utilizá-lo de entretenimento ou base de estudo.
 </div>
 <br>
 <div>
 <p>Atenciosamente,</p>
-<p><i><strong>Leonardo Souza Martins</strong>, Web Developer - SP - BR</i></p>
+<p><i><strong>Leonardo Souza Martins</strong>, Web .Net Developer - SP - BR</i></p>
 </div>
 <hr />
 <div>
