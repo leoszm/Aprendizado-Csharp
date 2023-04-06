@@ -3,7 +3,7 @@
 <div>
 <h3>Explicação</h3><h4>
 
-- Repositório dedicado a publicação da minha trilha com o aprendizado C# disponilibizado pela alura e canal CFB cursos.</h3>
+- Repositório dedicado a publicação da minha trilha com o aprendizado C# disponilibizado pela Udemy, Alura e canal CFB cursos.</h3>
 </div>
 <div>
 <h3>Conteúdo</h3>
@@ -11,12 +11,18 @@
 - O conteúdo de C# do canal CFB Cursos é disponibilizado gratuitamento no youtube, com o cartão de visita: <br> 
   - Curso de programação completo em C#, venha aprender criar programas para Windows em uma das linguagens mais usadas comercialmente. Se você que ser um programador de verdade e que tenha colocação no mercado de trabalho você precisa aprender C#;<br>
   <br>
-- Entretanto, o curso de C# disponibilizado pela alura é pago, com o cartão de visita:<br>
+- Entretanto, os cursos de C# disponibilizados pela alura e Udemy são pago, tendo como cartão de visita:<br><h4>Alura:</h4>
   - Compile e execute código C#;<br>
   - Aprenda a usar o Visual Studio;<br>
   - Conheça Variáveis e controle de fluxo;<br>
   - Entenda sobre as condicionais e laços de repetição;<br>
   - Conheça os principais tipos do C#;<br>
+  <br>
+  <h4>Udemy:</h4>
+  
+  - Curso mais didático e completo de C# e OO;
+  - Coleções, UML, ASP.NET, Entity Framework, LINQ, Lambda e muito mais
+
 </div>
 <div>
 
@@ -36,6 +42,7 @@
 <h3>Referências</h3><p>
 
 - Conteúdo da <a href="https://www.youtube.com/@cfbcursos">CFBCursos</a> disponibilizado no link: <a href="https://www.youtube.com/playlist?list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi">Curso de Programação C#</a>;<br>
-- Conteúdo da <a href="https://www.alura.com.br">Alura</a> disponibilizado no link: <a href="https://cursos.alura.com.br/course/csharp-iniciando-linguagem">Curso de C#: explorando a linguagem</a>;</p>
+- Conteúdo da <a href="https://www.alura.com.br">Alura</a> disponibilizado no link: <a href="https://cursos.alura.com.br/course/csharp-iniciando-linguagem">Curso de C#: explorando a linguagem</a>;
+- Conteúdo da <a href="https://www.udemy.com/">Udemy</a> disponibilizado no link: <a href="https://www.udemy.com/course/programacao-orientada-a-objetos-csharp">C# COMPLETO Programação Orientada a Objetos + Projetos</a></p>
 </div>
 
