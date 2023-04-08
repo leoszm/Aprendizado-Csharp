@@ -1,0 +1,15 @@
+C:\src\Curso_C#\Udemy_Csharp_Completo_Programacao_OO\2_Topico\Aula_10\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.exe
+C:\src\Curso_C#\Udemy_Csharp_Completo_Programacao_OO\2_Topico\Aula_10\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.deps.json
+C:\src\Curso_C#\Udemy_Csharp_Completo_Programacao_OO\2_Topico\Aula_10\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.runtimeconfig.json
+C:\src\Curso_C#\Udemy_Csharp_Completo_Programacao_OO\2_Topico\Aula_10\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.dll
+C:\src\Curso_C#\Udemy_Csharp_Completo_Programacao_OO\2_Topico\Aula_10\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.pdb
+C:\src\Curso_C#\Udemy_Csharp_Completo_Programacao_OO\2_Topico\Aula_10\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.csproj.AssemblyReference.cache
+C:\src\Curso_C#\Udemy_Csharp_Completo_Programacao_OO\2_Topico\Aula_10\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\Curso_C#\Udemy_Csharp_Completo_Programacao_OO\2_Topico\Aula_10\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\src\Curso_C#\Udemy_Csharp_Completo_Programacao_OO\2_Topico\Aula_10\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.AssemblyInfo.cs
+C:\src\Curso_C#\Udemy_Csharp_Completo_Programacao_OO\2_Topico\Aula_10\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\src\Curso_C#\Udemy_Csharp_Completo_Programacao_OO\2_Topico\Aula_10\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.dll
+C:\src\Curso_C#\Udemy_Csharp_Completo_Programacao_OO\2_Topico\Aula_10\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\refint\PrimeiroProjeto.dll
+C:\src\Curso_C#\Udemy_Csharp_Completo_Programacao_OO\2_Topico\Aula_10\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.pdb
+C:\src\Curso_C#\Udemy_Csharp_Completo_Programacao_OO\2_Topico\Aula_10\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.genruntimeconfig.cache
+C:\src\Curso_C#\Udemy_Csharp_Completo_Programacao_OO\2_Topico\Aula_10\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\ref\PrimeiroProjeto.dll
