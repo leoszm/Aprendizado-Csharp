@@ -1,0 +1,15 @@
+C:\src\Curso_C#\Udemy_Csharp_Completo_Programacao_OO\3_Topico_programming_logic\Aula_23\Couse\Couse\bin\Debug\net6.0\Couse.exe
+C:\src\Curso_C#\Udemy_Csharp_Completo_Programacao_OO\3_Topico_programming_logic\Aula_23\Couse\Couse\bin\Debug\net6.0\Couse.deps.json
+C:\src\Curso_C#\Udemy_Csharp_Completo_Programacao_OO\3_Topico_programming_logic\Aula_23\Couse\Couse\bin\Debug\net6.0\Couse.runtimeconfig.json
+C:\src\Curso_C#\Udemy_Csharp_Completo_Programacao_OO\3_Topico_programming_logic\Aula_23\Couse\Couse\bin\Debug\net6.0\Couse.dll
+C:\src\Curso_C#\Udemy_Csharp_Completo_Programacao_OO\3_Topico_programming_logic\Aula_23\Couse\Couse\bin\Debug\net6.0\Couse.pdb
+C:\src\Curso_C#\Udemy_Csharp_Completo_Programacao_OO\3_Topico_programming_logic\Aula_23\Couse\Couse\obj\Debug\net6.0\Couse.csproj.AssemblyReference.cache
+C:\src\Curso_C#\Udemy_Csharp_Completo_Programacao_OO\3_Topico_programming_logic\Aula_23\Couse\Couse\obj\Debug\net6.0\Couse.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\Curso_C#\Udemy_Csharp_Completo_Programacao_OO\3_Topico_programming_logic\Aula_23\Couse\Couse\obj\Debug\net6.0\Couse.AssemblyInfoInputs.cache
+C:\src\Curso_C#\Udemy_Csharp_Completo_Programacao_OO\3_Topico_programming_logic\Aula_23\Couse\Couse\obj\Debug\net6.0\Couse.AssemblyInfo.cs
+C:\src\Curso_C#\Udemy_Csharp_Completo_Programacao_OO\3_Topico_programming_logic\Aula_23\Couse\Couse\obj\Debug\net6.0\Couse.csproj.CoreCompileInputs.cache
+C:\src\Curso_C#\Udemy_Csharp_Completo_Programacao_OO\3_Topico_programming_logic\Aula_23\Couse\Couse\obj\Debug\net6.0\Couse.dll
+C:\src\Curso_C#\Udemy_Csharp_Completo_Programacao_OO\3_Topico_programming_logic\Aula_23\Couse\Couse\obj\Debug\net6.0\refint\Couse.dll
+C:\src\Curso_C#\Udemy_Csharp_Completo_Programacao_OO\3_Topico_programming_logic\Aula_23\Couse\Couse\obj\Debug\net6.0\Couse.pdb
+C:\src\Curso_C#\Udemy_Csharp_Completo_Programacao_OO\3_Topico_programming_logic\Aula_23\Couse\Couse\obj\Debug\net6.0\Couse.genruntimeconfig.cache
+C:\src\Curso_C#\Udemy_Csharp_Completo_Programacao_OO\3_Topico_programming_logic\Aula_23\Couse\Couse\obj\Debug\net6.0\ref\Couse.dll
