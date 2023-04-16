@@ -30,5 +30,16 @@ namespace Course
                 + " unidades, Total: R$" 
                 + ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);
         }
+
+        //void significa vazio, indicando que não vai retornar nada como saída
+        public void AdicionarProduto(int quantidade)
+        {
+            Quantidade += quantidade;//Quantidade = Quantidade + quantidade;
+        }
+
+        public void RemoverProduto(int quantidade)
+        {
+            Quantidade -= quantidade;//Quantidade = Quantidade - quantidade;
+        }
     }
 }
