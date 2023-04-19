@@ -1,0 +1,15 @@
+C:\src\Curso_C#\Udemy_Csharp_Completo_Programacao_OO\5_Constuctors_word_this_override_encapsulation\Aula_55\Course\Course\bin\Debug\net6.0\Course.exe
+C:\src\Curso_C#\Udemy_Csharp_Completo_Programacao_OO\5_Constuctors_word_this_override_encapsulation\Aula_55\Course\Course\bin\Debug\net6.0\Course.deps.json
+C:\src\Curso_C#\Udemy_Csharp_Completo_Programacao_OO\5_Constuctors_word_this_override_encapsulation\Aula_55\Course\Course\bin\Debug\net6.0\Course.runtimeconfig.json
+C:\src\Curso_C#\Udemy_Csharp_Completo_Programacao_OO\5_Constuctors_word_this_override_encapsulation\Aula_55\Course\Course\bin\Debug\net6.0\Course.dll
+C:\src\Curso_C#\Udemy_Csharp_Completo_Programacao_OO\5_Constuctors_word_this_override_encapsulation\Aula_55\Course\Course\bin\Debug\net6.0\Course.pdb
+C:\src\Curso_C#\Udemy_Csharp_Completo_Programacao_OO\5_Constuctors_word_this_override_encapsulation\Aula_55\Course\Course\obj\Debug\net6.0\Course.csproj.AssemblyReference.cache
+C:\src\Curso_C#\Udemy_Csharp_Completo_Programacao_OO\5_Constuctors_word_this_override_encapsulation\Aula_55\Course\Course\obj\Debug\net6.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\Curso_C#\Udemy_Csharp_Completo_Programacao_OO\5_Constuctors_word_this_override_encapsulation\Aula_55\Course\Course\obj\Debug\net6.0\Course.AssemblyInfoInputs.cache
+C:\src\Curso_C#\Udemy_Csharp_Completo_Programacao_OO\5_Constuctors_word_this_override_encapsulation\Aula_55\Course\Course\obj\Debug\net6.0\Course.AssemblyInfo.cs
+C:\src\Curso_C#\Udemy_Csharp_Completo_Programacao_OO\5_Constuctors_word_this_override_encapsulation\Aula_55\Course\Course\obj\Debug\net6.0\Course.csproj.CoreCompileInputs.cache
+C:\src\Curso_C#\Udemy_Csharp_Completo_Programacao_OO\5_Constuctors_word_this_override_encapsulation\Aula_55\Course\Course\obj\Debug\net6.0\Course.dll
+C:\src\Curso_C#\Udemy_Csharp_Completo_Programacao_OO\5_Constuctors_word_this_override_encapsulation\Aula_55\Course\Course\obj\Debug\net6.0\refint\Course.dll
+C:\src\Curso_C#\Udemy_Csharp_Completo_Programacao_OO\5_Constuctors_word_this_override_encapsulation\Aula_55\Course\Course\obj\Debug\net6.0\Course.pdb
+C:\src\Curso_C#\Udemy_Csharp_Completo_Programacao_OO\5_Constuctors_word_this_override_encapsulation\Aula_55\Course\Course\obj\Debug\net6.0\Course.genruntimeconfig.cache
+C:\src\Curso_C#\Udemy_Csharp_Completo_Programacao_OO\5_Constuctors_word_this_override_encapsulation\Aula_55\Course\Course\obj\Debug\net6.0\ref\Course.dll
